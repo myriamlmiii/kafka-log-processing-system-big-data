@@ -99,7 +99,7 @@ Conducted comprehensive analysis comparing Kafka with other message brokers:
 
 ## 📄 Documentation
 
-For detailed implementation steps, code samples, architecture diagrams, and technical analysis, see the [complete project documentation](kafka assignment.pdf).
+For detailed implementation steps, code samples, architecture diagrams, and technical analysis, see the [complete project documentation](kafka-bigdata.pdf).
 
 ## 🎓 Background
 
